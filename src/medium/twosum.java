@@ -1,4 +1,4 @@
-package easy;
+package medium;
 
 public class twosum {
 //	Input: nums = [2,7,11,15], target = 9

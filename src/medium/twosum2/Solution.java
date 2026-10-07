@@ -1,4 +1,4 @@
-package easy.twosum2;
+package medium.twosum2;
 
 class Solution {
 
